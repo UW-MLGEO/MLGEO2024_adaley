@@ -6,11 +6,17 @@ The URL of this Repository can be found [URL](https://github.com/UW-MLGEO/MLGEO2
 ## Installing the Repository
 ```
 git clone https://github.com/UW-MLGEO/MLGEO2024_adaley.git
+conda env create -f environment.yml
+conda activate mlgeo_dataset
 ```
 
-## Working with the Python Code
 
-### Running the Notebook
+## Running the Notebook
+To run the notebook:
+- Install Python, create the mlgeo_dataset conda environment.
+- Running `conda env create -f environment.yml` should create the environment and install the reqired modules.
+- Select the `mlgeo_dataset` environment
+- Run cells in the order given (Ensure that you change the PATH to storp the PNG file)
 
 ## Favorite Earth Sciences Topics
 
