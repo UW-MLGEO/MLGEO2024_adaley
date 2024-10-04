@@ -20,7 +20,7 @@ git clone https://github.com/UW-MLGEO/MLGEO2024_adaley.git
 - Coupled Atmosphere-Wave-Ocean Modelling
 - Coastal Environment and Climate Change
 
-#Licensing
+## Licensing
 
 I decided to use the MIT licensing because it is:
 
