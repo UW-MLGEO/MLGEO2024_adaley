@@ -3,7 +3,7 @@
 
 The URL of this Repository can be found [URL](https://github.com/UW-MLGEO/MLGEO2024_adaley).
 
-##Installing the Repository
+## Installing the Repository
 ```
 git clone https://github.com/UW-MLGEO/MLGEO2024_adaley.git
 ```
