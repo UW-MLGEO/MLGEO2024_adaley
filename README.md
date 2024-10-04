@@ -14,11 +14,11 @@ git clone https://github.com/UW-MLGEO/MLGEO2024_adaley.git
 
 ## Favorite Earth Sciences Topics
 
-Renewable Energy Sources
-Tropical Cyclones
-Air-Sea Interaction
-Coupled Atmosphere-Wave-Ocean Modelling
-Coastal Environment and Climate Change
+- Renewable Energy Sources
+- Tropical Cyclones
+- Air-Sea Interaction
+- Coupled Atmosphere-Wave-Ocean Modelling
+- Coastal Environment and Climate Change
 
 #Licensing
 
